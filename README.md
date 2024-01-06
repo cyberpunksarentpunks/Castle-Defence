@@ -11,12 +11,12 @@ If enemies drop the health of the gate to zero, Player lose
 
 WHAT IS NEEDED:____________________________________________________
 -ASSETS-
-Player with bow.
-arrow png.
-gold coin image
-Background image.
-Castle with visible gates on right side image.
-A few types of enemies. let say 5/6 from weakest to strongest. I think orcs can do the trick. Enemies and allies are ordered from weakest to strongest.
+- Player with bow.
+- arrow png.
+- gold coin image
+- Background image.
+- Castle with visible gates on right side image.
+- A few types of enemies. let say 5/6 from weakest to strongest. I think orcs can do the trick. Enemies and allies are ordered from weakest to strongest.
 _enemies_
 Goblin with club
 Light armored Orc with axe
