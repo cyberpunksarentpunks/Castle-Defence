@@ -34,6 +34,7 @@ _Summoned allies_
 
 
 GAME LOGIC:
+
 player starts with 100 coins
 on a first round 15 Goblin enemies will come one by one and if they will get to the gate then they will stop and attacking animation will occur each second.
 enemy goes to left and allies goes to right. if they meet they will stop and attacking animation occurs. if any one of thm survived then they starts to go again.
