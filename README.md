@@ -10,7 +10,8 @@ Player can buy/summon friendly characters to help him
 If enemies drop the health of the gate to zero, Player lose
 
 WHAT IS NEEDED:____________________________________________________
--ASSETS-
+
+-ASSETS- character sprites should be gifs or separated PNGs because of how pygame treats it.
 - Player with bow.
 - arrow png.
 - gold coin image
