@@ -51,7 +51,7 @@ Allies STATS: health/damage/cost
 - Archer - 2/2/100
 - lower Knight - 6/6/150
 - Armored Knight 10/8/300
-- Mage - He dissapears after using a spell. COST/ 1000
+- Mage - He dissapears after using a spell. COST = 1000
 
 GATE's health = 100
 
