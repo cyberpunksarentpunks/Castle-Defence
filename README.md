@@ -29,8 +29,8 @@ _Summoned allies_
 - Militia with one handed sword
 - Archer with bow. he stop in front of a gate and start shooting
 - Lower Knight with sword and shield
-- Armored Knight with Two handed sword that can shoot once with crossbow before contact with enemy. Crossbow instantly kills till 2 level enemy
-- Mage - can be used to oneshot everyone till level 3 in a visible map.
+- Armored Knight with Two handed sword that can shoot once with crossbow before contact with enemy. Crossbow instantly kills till 2 level enemy(damage=4)
+- Mage - can be used to oneshot everyone till level 3 in a visible map.(damage=6)
 
 
 GAME LOGIC:
@@ -38,13 +38,14 @@ player starts with 100 coins
 on a first round 15 Goblin enemies will come one by one and if they will get to the gate then they will stop and attacking animation will occur each second.
 enemy goes to left and allies goes to right. if they meet they will stop and attacking animation occurs. if any one of thm survived then they starts to go again.
 Arrow deals 2 damage
-STATS: health/damage/reward
+
+Enemy STATS: health/damage/reward
 - Goblin - 2/2/20
 - light orc -4/4/40
 - medium orc - 6/6/60
 - heavy orc - 8/8/80
 --- 
-STATS: health/damage/cost
+Allies STATS: health/damage/cost
 - Peasant - 2/2/50
 - Militia - 4/4/80
 - Archer - 2/2/100
