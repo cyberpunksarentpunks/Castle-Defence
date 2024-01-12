@@ -11,7 +11,7 @@ If enemies drop the health of the gate to zero, Player lose
 
 WHAT IS NEEDED:____________________________________________________
 
--ASSETS- character sprites should be gifs or separated PNGs because of how pygame treats it. ok
+-ASSETS- character sprites should be gifs or separated PNGs because of how pygame treats it. 
 - Player with bow.
 - arrow png.
 - gold coin image
@@ -66,7 +66,7 @@ LEVELS:
 - 6.wave 26 goblins, 14 light orcs, 9 medium orcs, 3 heavy orcs
 
 Up to infinity if i ever get to finish the game at least to the sixth wave. :D
-byl tu bubak
+
 
 
 
